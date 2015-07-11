@@ -2,6 +2,23 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "NAVER Webtoon Editor",
+    "thumb": "naver-webtoon-editor/thumb.png",
+    "desc": "Naver’s popular webtoon service recently launched new breed of webtoons that contain special effects and animations. Engineers at Naver Labs put much efforts into developing a tool called Webtoon editor that allows any webtoon artists to easily add special effects or animations to their webtoons.",
+    "url": "http://comic.naver.com/webtoon/detail.nhn?titleId=655277&no=4",
+    "info": "http://koreajoongangdaily.joins.com/news/article/Article.aspx?aid=3005707",
+    "submitter": "naver",
+    "submissionDate": "2015-07-11",
+    "tags": [
+      "NAVER",
+      "NAVER LABS",
+      "comic",
+      "webtoon",
+      "editor",
+      "nodewebkit"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
